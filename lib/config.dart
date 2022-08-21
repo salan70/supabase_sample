@@ -1,0 +1,3 @@
+const apiUrl = 'https://oiqotqmgjozkkmzmnyet.supabase.co';
+const anonKey =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9pcW90cW1nam96a2ttem1ueWV0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjEwNzY3NTAsImV4cCI6MTk3NjY1Mjc1MH0.wbTyoPYszCdeawKBKqMJNQS-52dXDhVSfwjANdDHQSo';
